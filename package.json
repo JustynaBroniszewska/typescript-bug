@@ -1,0 +1,12 @@
+{
+  "name": "typescript-bug",
+  "version": "1.0.0",
+  "main": "test.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "ts-node": "^9.0.0"
+  }
+}
